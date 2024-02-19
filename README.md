@@ -6,3 +6,4 @@ Repository to test gitflow
 * Bugfix  SDC-0003 added
 * Feature SDC-0004 added
 * Bugfix  SDC-0005 added
+* Hotfix  SDC-0006 added
